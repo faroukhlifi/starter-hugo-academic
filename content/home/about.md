@@ -1,21 +1,15 @@
 ---
-# An instance of the About widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
 widget: about
-
-# Activate this widget? true/false
 active: true
-
-# This file represents a page section.
-headless: true
-
-# Order that this section appears on the page.
-weight: 20
-
-title: Biography
-
-# Choose the user profile to display
-# This should be the username (folder name) of a profile in your `content/authors/` folder.
-# See https://wowchemy.com/docs/get-started/#introduce-yourself
 author: admin
+widget_id: RECENT_POSTS
+headless: true
+weight: 20
+title: Biography
+design:
+  background:
+    image: truc.jpg
+    gradient_start: rgba(0, 0, 0, 0.34)
+    gradient_end: rgba(0, 0, 0, 0.34)
 ---
+I am Farouk Khlifi, a master in Finance student in Princeton University and a recent graduate in Applied Mathematics and Computer Science from Ecole Polytechnique. I am very passionate about topics in optimization and AI and how they relate to recent advances in Quantitative finance and trading.
