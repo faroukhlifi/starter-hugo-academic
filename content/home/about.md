@@ -8,7 +8,7 @@ weight: 20
 title: Biography
 design:
   background:
-    image: truc.jpg
+    image: ""
     gradient_start: rgba(0, 0, 0, 0.34)
     gradient_end: rgba(0, 0, 0, 0.34)
 ---
